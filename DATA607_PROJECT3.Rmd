@@ -16,8 +16,6 @@ I obtained data from online job listing sites such as LinkedIn, Indeed, SimplyHi
 AngelList in the US in October 2020 using Python.
 
 
-
-
 # Data
 
 ## Data Source
